@@ -1,0 +1,24 @@
+{
+    [
+        {
+            "icon":"sports_basketball",
+            "title":"Basketteur depuis 26 ans",
+            "description":"Aprés 18 années de compétition au sein de l'U.S.P.B., de la catégorie poussin jusqu'à sénior départemental. Je joue désormais en loisir au sein du club des Golgoth 13 d'Aix-en-Provence."
+        },
+        {
+            "icon":"local_movies",
+            "title":"Cinéma",
+            "description":"Bonne connaissance du cinéma. J'adore connaître les petits détails qui font les grands films."
+        },
+        {
+            "icon":"videogame_asset",
+            "title":"Jeux vidéo",
+            "description":"Passioné par les jeux vidéo depuis l'enfance, j'ai commencé mon aventure vidéo-ludique sur une Colecovision (datant de 1982) avant de rejoindre les mondes de Mario et Zelda. Je joue occasionnellement sur PlayStation ou PC."
+        },
+        {
+            "icon":"games",
+            "title":"Jeux de société",
+            "description":"Grand fan de jeux de société, de stratégie (Carcassone, Citadelle, Saboteur) et de réflexes (Jungle Speed, Blitz). "
+        }
+    ]
+}
